@@ -1,0 +1,13 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files (prevent committing large data)
+*.fits
+*.fit
+*.csv   # if data is large
+*.txt   # if data is large
+data/
+
+# Python cache
+__pycache__/
+*.pyc
