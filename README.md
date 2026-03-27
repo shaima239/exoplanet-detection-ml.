@@ -26,7 +26,3 @@ This project applies machine learning to classify stars as exoplanet‑hosting o
 
 > *Note: The neural network achieved perfect test set scores, but the test set is small (5 exoplanets). Further validation is recommended.*
 
-## How to Run
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
